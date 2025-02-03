@@ -75,6 +75,12 @@ type: sum
     type: sum
     sql: ${sale_price} ;;  }
 
+  measure:test2SALES3{
+    type: sum
+    sql: ${sale_price} ;;  }
+
+
+
 
   measure: count {
     type: count
